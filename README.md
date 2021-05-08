@@ -1,3 +1,3 @@
 
-[![raisalfs github stats](https://github-readme-stats.vercel.app/api?username=raisalfs&show_icons=true&line_height=21&show_icons=true&theme=vue&title_color=0059CC&icon_color=0059CC)](https://github.com/raisalfs/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raisalfs&show_icons=true&layout=compact&theme=vue&title_color=0059CC&icon_color=0059CC)](https://github.com/raisalfs/github-readme-stats)
+[![raisalfs github stats](https://github-readme-stats.vercel.app/api?username=raisalfs&show_icons=true&include_all_commits=true&theme=material-palenight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raisalfs&layout=compact&theme=material-palenight)
